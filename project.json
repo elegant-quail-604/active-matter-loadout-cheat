@@ -1,0 +1,22 @@
+{
+  "name": "active-matter-loadout-toolkit",
+  "displayName": "Active Matter Loadout Toolkit",
+  "programType": "loadout-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Equipment groups",
+    "Session profiles",
+    "Reference notes"
+  ],
+  "topics": [
+    "active-matter-loadout-toolkit",
+    "active-matter-tools",
+    "active-matter-menu",
+    "active-matter-settings",
+    "active-matter-configs",
+    "active-matter-equipment-groups",
+    "active-matter-session-profiles"
+  ]
+}
